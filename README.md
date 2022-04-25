@@ -32,9 +32,6 @@ Below you see the refactored code time to produce results is much faster then th
 
 ![AllStocksRefactored_2017](AllStocksRefactored_2017.png)
 
-Code example - 
->
-
 
 2018 Refactored - 
 
